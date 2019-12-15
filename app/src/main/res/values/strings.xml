@@ -1,3 +1,10 @@
 <resources>
+
     <string name="app_name">app commerce</string>
+
+    <!--    Strings tela principal-->
+    <string name="string_title">Título</string>
+    <string name="string_subtitle">Subtitulo</string>
+    <string name="string_popular_category">Categorias Populares</string>
+    <string name="string_products">Produtos Recentes</string>
 </resources>
